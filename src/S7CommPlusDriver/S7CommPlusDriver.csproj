@@ -73,6 +73,7 @@
     <Compile Include="ClientApi\Browser.cs" />
     <Compile Include="ClientApi\PlcTagQC.cs" />
     <Compile Include="ClientApi\PlcTags.cs" />
+    <Compile Include="ClientApi\S7CommPlusSafeClient.cs" />
     <Compile Include="Legitimation\AccessLevel.cs" />
     <Compile Include="Core\BlobDecompressor.cs" />
     <Compile Include="Core\CommRessources.cs" />
